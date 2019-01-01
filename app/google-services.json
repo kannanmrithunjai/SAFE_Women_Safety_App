@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908764019484",
+    "firebase_url": "https://safe-86ad3.firebaseio.com",
+    "project_id": "safe-86ad3",
+    "storage_bucket": "safe-86ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908764019484:android:3418a183a199b90a",
+        "android_client_info": {
+          "package_name": "com.example.venkatesh.presencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908764019484-8o5rkhprlchco29mvn68akqll484gi8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkatesh.presencesystem",
+            "certificate_hash": "fe40b0d8e89633c5012a7b938a6d16571f5d7f12"
+          }
+        },
+        {
+          "client_id": "908764019484-pmq40g6jt43rj9nkbaf0cu4ubsccu9qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrqoBIToGt4P_8oNDGPPFk2mCY_KFXV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908764019484-pmq40g6jt43rj9nkbaf0cu4ubsccu9qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
